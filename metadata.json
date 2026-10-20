@@ -1,0 +1,6 @@
+{
+  "name": "Meu Espaço",
+  "description": "Central de produtividade local com notas estilo post-it, tarefas com foco Pomodoro, agenda e planejamento Kanban de conteúdo com Assistente de IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
